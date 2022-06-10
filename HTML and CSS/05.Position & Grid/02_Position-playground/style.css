@@ -1,0 +1,30 @@
+@import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+
+.viewport{
+    position: relative;
+    height: 50vh;
+}
+
+.bottomPicture{
+    height: 400px;
+}
+
+.upperPicture{
+    height: 300px;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.orange{
+    background-color: lightsalmon;
+}
+
+.card{
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
