@@ -1,0 +1,26 @@
+body{
+    height: 800px;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+}
+
+img{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.thinPicture{
+    width: 100px;
+}
+
+.widePicture{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+}

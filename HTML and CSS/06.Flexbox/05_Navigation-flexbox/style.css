@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+}
+
+header{
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+}
+
+nav{
+    flex-grow: 1;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+
+ul li{
+    font-size: 20px;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
